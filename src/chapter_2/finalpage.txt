@@ -1,0 +1,7 @@
+so far we learndgit flow
+
+commit-->push
+
+remote-->local
+
+pull/update
