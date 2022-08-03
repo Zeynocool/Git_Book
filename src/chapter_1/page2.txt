@@ -4,4 +4,6 @@ This is page 2.
 
 We are getting ready to commit.
 
+Second page is completed
+
 Nothing new yet
